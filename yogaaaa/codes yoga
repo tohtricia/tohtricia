@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+ <html> 
+ <head> 
+  <meta charset="utf-8" /> 
+  <center><title>Namaste Yoga</title><center> 
+ </head> 
+ <style> 
+ div.background { 
+  background: url(sea background.jpg); 
+  border: 2px solid black; 
+} 
+ 
+div.transbox { 
+  margin: 120px; 
+  background-color: #AFEEEE; 
+  border: 1px solid black; 
+  opacity: 0.7; 
+} 
+ 
+div.transbox p { 
+  margin: 8%; 
+  font-weight: bold; 
+  color: #000000; 
+} 
+ul { 
+position: -webkit-sticky; /* Safari */ 
+  position: sticky; 
+  top: 0; 
+  list-style-type: none; 
+  margin: 0; 
+  padding: 0; 
+  overflow: hidden; 
+  background-color: #ffd1dc; 
+} 
+ 
+li { 
+  float: left; 
+} 
+ 
+li a { 
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 16px; 
+  text-decoration: none; 
+} 
+ 
+li a:hover { 
+  background-color: #111; 
+} 
+p.thick { 
+  font-weight: 900; 
+} 
+ 
+ </style> 
+ <body> 
+   
+  <div class="background"> 
+  <div class="transbox"> 
+<ul> 
+  <li><a class="active" href="Coding Assignment 2 CSS.html">Home</a></li> 
+  <li><a href="classes.html">Classes</a></li> 
+  <li><a href="pricing.html">Pricing</a></li> 
+  <li><a href="contact.html">Contact</a></li> 
+</ul>
+	<h1>
+	<p>
+	<img src="logo1.png" width="200" height="150"> <br> <br> <br> <br>
+	<font size="10">YOGA FOR YOUR MENTAL, PHYSICAL & SOCIAL WELL-BEING </font>
+	We offer a variety of approaches to achieve and maintain your optimal health. If you are experience pain, NAMASTE YOGA can help!
+	<img src="yoga class.jpg" width="1035" height="600"> <br>
+	NAMASTE YOGA exists for you to learn about yoga and empower yourself through your practice on the mat. Through a consistent practice, you develop love, patience and compassion towards yourself then others.
+	<img src=room.jpg" width="1035" height="600" <br>
+	Our teachers offer a safe environment for you to explore your practice as they share their learning with you.
+	<img src=teacher.jpg" width="1035" height="600" <br> </p> </div> </div>
